@@ -1,13 +1,3 @@
-@font-face {
-	font-family: 'Inter';
-	src: url(fonts/inter);
-}
-
-@font-face{
-	font-family: 'Spectral';
-    src: url(fonts/spectral);
-}
-
 body {
 	max-width: 1920px;
 	margin: auto;
@@ -272,7 +262,7 @@ input[type="submit"] {
 		margin-top: 0;
 		margin-bottom: 1em;
 	}
-	#about-me h3, #about-me p {
+	#about-me h6, #about-me p {
 		width: 100%;
 	}
 }
